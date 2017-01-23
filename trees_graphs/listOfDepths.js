@@ -14,11 +14,3 @@ const listOfDepths = (root, level = 0, result = []) => {
 
   return result;
 }
-
-class Root {
-  constructor(val) {
-    this.val = val;
-    this.right = null;
-    this.left = null;
-  }
-}
