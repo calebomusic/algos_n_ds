@@ -7,7 +7,7 @@
 
 /*
 There's a recursive solution. An optimized solution using memoization.
-There's also a much simpler solution  .
+There's also a much simpler solution.
 */
 
 const divingBoard = (k, longer, shorter) {
