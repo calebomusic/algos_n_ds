@@ -47,7 +47,7 @@ function resize(grid, dir) {
       }
     }
   }
-  
+
   return newGrid;
 }
 
